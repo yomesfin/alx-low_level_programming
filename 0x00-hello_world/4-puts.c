@@ -3,11 +3,13 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
- */ 
+ * Return: Always (Success)
+ */
 int main(void)
 {
-	char putstring[100] = "Programming is like building a multilingual puzzle\n";
+	char putstring[100] = "\"Programming is like building\
+ a multilingual puzzle\n";
+
 	puts(putstring);
 	return (0);
 }
