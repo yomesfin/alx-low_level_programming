@@ -8,7 +8,7 @@
 int main(void)
 {
 	char putstring[100] = "\"Programming is like building\
- a multilingual puzzle\n";
+ a multilingual puzzle";
 
 	puts(putstring);
 	return (0);
